@@ -77,7 +77,7 @@ DeviceFileEvents
 ## Created By:
 - **Author Name**: Marquell Proctor
 - **Author Contact**: https://www.linkedin.com/in/marquell-proctor-cyber/
-- **Date**: December 15, 2025
+- **Date**: January 10, 2025
 
 ## Validated By:
 - **Reviewer Name**: 
@@ -94,4 +94,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `January 1, 2026`  | `Marquell Proctor`   
+| 1.0         | Initial draft                  | `January 13, 2026`  | `Marquell Proctor`   
