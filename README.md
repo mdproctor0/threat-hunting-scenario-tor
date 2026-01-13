@@ -1,5 +1,3 @@
-# Official [Cyber Range](http://joshmadakor.tech/cyber-range) Project
-
 <img width="400" src="https://github.com/user-attachments/assets/44bac428-01bb-4fe9-9d85-96cba7698bee" alt="Tor Logo with the onion and a crosshair on it"/>
 
 # Threat Hunt Report: Unauthorized TOR Usage
@@ -154,6 +152,6 @@ The user "employee" on the "threat-hunt-lab" device initiated and completed the 
 
 ## Response Taken
 
-TOR usage was confirmed on the endpoint `threat-hunt-lab` by the user `employee`. The device was isolated, and the user's direct manager was notified.
+TOR usage was confirmed on the endpoint `threatfinal-mdp` by the user `proctorvm`. The device was isolated, and the user's direct manager was notified.
 
 ---
